@@ -10,7 +10,7 @@ There are three files:
 	
 `c_Sipsey_Waypoints.gpx`: This file includes only the waypoints.
 
-In most situations, you would want to use (a). <a href="https://gpx.studio/#?state={\"urls\":[\"https://raw.githubusercontent.com/firatsoylu/sipsey_wilderness_gpx/main/a_Sipsey_TrailTracks_Waypoints_combined.gpx\"]}" target="_blank">You can explore the map here on GPXStudio</a>  (click on the "App" button).
+In most situations, you would want to use (a). <a href="https://gpx.studio/#?state=%7B%22urls%22%3A%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Ffiratsoylu%2Fsipsey_wilderness_gpx%2Fmain%2Fa_Sipsey_TrailTracks_Waypoints_combined.gpx%22%5D%7D" target="_blank">You can explore the map here on GPXStudio (click on the "App" button)</a>
 
 
 
