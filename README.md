@@ -10,7 +10,10 @@ There are three files:
 	
 `c_Sipsey_Waypoints.gpx`: This file includes only the waypoints.
 
-In most situations, you would want to use (a). [You can explore the map here](https://gpx.studio/#?state={"urls":["https://raw.githubusercontent.com/firatsoylu/sipsey_wilderness_gpx/main/a_Sipsey_TrailTracks_Waypoints_combined.gpx"]}) on GPX Studio (click on the "App" button).
+In most situations, you would want to use (a). <a href="https://gpx.studio/#?state={\"urls\":[\"https://raw.githubusercontent.com/firatsoylu/sipsey_wilderness_gpx/main/a_Sipsey_TrailTracks_Waypoints_combined.gpx\"]}" target="_blank">You can explore the map here on GPXStudio</a>  (click on the "App" button).
+
+
+
 
 You can use the GPX map with any hiking app that allows GPX imports. I prefer to use the free & open source Comaps app. Below is how the map looks in GPXstudio:
 
