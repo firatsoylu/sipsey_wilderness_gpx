@@ -15,6 +15,6 @@ gray: parking/trailheads
 
 For other apps, information for the waypoints were included as symbols (so that you can see a camp symbol for campsites etc.)
 
-![diagram](images/sipsey_comaps.png)
+![diagram](images/sipsey_comaps.jpg)
 
 Please use the map with caution. I tried my best to get the most accurate information, but there might be inaccurate information on the map. Use it at your own risk. I will be updating it after each trip, and will post the most up-to-date version. 
