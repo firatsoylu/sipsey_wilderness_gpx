@@ -2,6 +2,16 @@
 
 Sipsey Wilderness is a wilderness area within the Bankhead National Forest, with beautiful trails, campsites, boulders, creeks, rivers, and waterfalls. This is a comprehensive map of all waypoints (trailheads, waterfalls, campsites, boulders, attractions etc.) and tracks (from 200 to 224) formed by patching together public info I found online, info I gathered from my own trips, and using the OSM & GPXstudio.
 
+There are three files:
+
+`a_Sipsey_TrailTracks_Waypoints_combined.gpx` : This file includes all trail tracks and waypoints.
+	
+`b_Sipsey_TrailTracks.gpx` : This file includes only the trail tracks
+	
+`c_Sipsey_Waypoints.gpx`: This file includes only the waypoints.
+
+In most situations, you would want to use (a). [You can explore the map here](https://gpx.studio/#?state={"urls":["https://raw.githubusercontent.com/firatsoylu/sipsey_wilderness_gpx/main/a_Sipsey_TrailTracks_Waypoints_combined.gpx"]})
+
 You can use the GPX map with any hiking app that allows GPX imports. I prefer to use the free & open source Comaps app. Below is how the map looks in GPXstudio:
 
 ![diagram](images/sipsey_gpxstudio.png)
