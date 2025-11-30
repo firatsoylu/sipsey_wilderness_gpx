@@ -1,6 +1,6 @@
 # Sipsey Wilderness (Alabama) Complete GPX Map for Hikers 
 
-Sipsey Wilderness is a wilderness area withing the Bankhead National Forest, with beautiful trails, boulders, creeks, rivers, and waterfalls. This is a comprehensive map of all waypoints (trailheads, waterfalls, campsites, boulders, attractions etc.) and tracks (from 200 to 224) by patching together public info I found online, info I gathered from my own trips, and using the OSM & GPXstudio.
+Sipsey Wilderness is a wilderness area within the Bankhead National Forest, with beautiful trails, campsites, boulders, creeks, rivers, and waterfalls. This is a comprehensive map of all waypoints (trailheads, waterfalls, campsites, boulders, attractions etc.) and tracks (from 200 to 224) formed by patching together public info I found online, info I gathered from my own trips, and using the OSM & GPXstudio.
 
 You can use the GPX map with any hiking app that allows GPX imports. I prefer to use the free & open source Comaps app. Below is how the map looks in GPXstudio:
 
