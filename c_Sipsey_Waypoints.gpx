@@ -1,0 +1,516 @@
+<!-- Sipsey Wilderness GPX for Hikers
+https://github.com/firatsoylu/sipsey_wilderness_gpx
+Version: 11/30/2025
+
+This file only includes the waypoints (campsites, water sources, trailheads and attractions). Check the repo for the trail tracks.
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Gemini" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.topografix.com/GPX/gpx_style/0/2 http://www.topografix.com/GPX/gpx_style/0/2/gpx_style.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:gpx_style="http://www.topografix.com/GPX/gpx_style/0/2">
+  <metadata>
+    <name>Sipsey Detailed Map Waypoints</name>
+    <desc>Complete list of landmarks, waterfalls, and campsites from the detailed wilderness map.</desc>
+  </metadata>
+
+  <!-- ========================================== -->
+  <!--       TRAILHEADS & PARKING (Gray)        -->
+  <!-- ========================================== -->
+  
+  <wpt lat="34.285614" lon="-87.398659">
+    <name>Sipsey (River Picnic Area) Trailhead</name>
+    <desc>Main southern entry. Fee required. Access to Trail 200 and 209.</desc>
+    <sym>Trail Head</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.288029" lon="-87.471376">
+    <ele>281.8</ele>
+    <name>Randolph Trailhead - Parking</name>
+    <desc>Access to Trail 201 and 202 (closest to White Creek Falls).</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.372417" lon="-87.432956">
+    <ele>283.9</ele>
+    <name>Braziel Trailhead - Parking</name>
+    <desc>Northern trailhead for Braziel Creek Trail (207).</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.307931" lon="-87.39004">
+    <ele>238.9</ele>
+    <name>Borden Trailhead - Parking</name>
+    <desc>Access to Borden Creek Trail (200) and Fat Man's Squeeze.</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.341028" lon="-87.471623">
+    <ele>190.9</ele>
+    <name>Thompson Trailhead - Parking</name>
+    <desc>Northwest trailhead. Access to Trail 206 and Ship Rock.</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.342207" lon="-87.395888">
+    <ele>262.8</ele>
+    <name>Gum Pond Trailhead - Parking</name>
+    <desc>Northeast trailhead for Gum Pond Trail (223).</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3350" lon="-87.4640">
+    <name>Wolfpen Hunt Camp TH</name>
+    <desc>Parking area for Wolfpen Hunt Camp and Trail 209 North.</desc>
+    <sym>Parking</sym>
+    <extensions><gpx><color>#FF737373</color></gpx></extensions>
+  </wpt>
+
+  <!-- ========================================== -->
+  <!--           WATERFALLS (Blue)              -->
+  <!-- ========================================== -->
+
+  <!-- Waypoints from SipseyCustomWaypoints_Sym.gpx (Water/Creek) -->
+  <wpt lat="34.327341" lon="-87.464232">
+    <name>Creek</name>
+    <desc>Good water supply</desc>
+    <sym>Water Source</sym>
+    <extensions>
+      <xsi:gpx><color>#FF3C8C3C</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.328873" lon="-87.444666">
+    <name>Little pond</name>
+    <desc>Good water supply</desc>
+    <sym>Water Source</sym>
+    <extensions>
+      <xsi:gpx><color>#FF804633</color></xsi:gpx>
+    </extensions>
+  </wpt>
+
+  <!-- Unofficial / Detailed Map Falls -->
+  <wpt lat="34.34433" lon="-87.43483">
+    <name>Clifty Creek Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32867" lon="-87.49250">
+    <name>Big Cascades</name>
+    <desc>Unofficial cascade located in the wilderness.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32917" lon="-87.49600">
+    <name>Quillan Cascades</name>
+    <desc>Unofficial cascade located in the wilderness.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32717" lon="-87.47400">
+    <name>School House Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.30933" lon="-87.50217">
+    <name>Kimlock Falls</name>
+    <desc>Spelling variation of Kinlock Falls as seen on detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32117" lon="-87.48400">
+    <name>Riddle Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.30750" lon="-87.48067">
+    <name>Parker Cascades</name>
+    <desc>Unofficial named cascade from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32550" lon="-87.45950">
+    <name>Auburn Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.32873" lon="-87.44513">
+    <name>Bee Branch Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.30833" lon="-87.44000">
+    <name>Feather Hawk Falls</name>
+    <desc>Scenic waterfall on Feather Hawk Creek, accessible via off-trail bushwhack.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.29250" lon="-87.44483">
+    <name>Eagle Falls</name>
+    <desc>Unofficial named waterfall from detailed map.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2959" lon="-87.4384">
+    <name>Hemlock Falls</name>
+    <desc>Waterfall located near the Eagle Creek area.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2926" lon="-87.4455">
+    <name>Thunder Falls</name>
+    <desc>Waterfall located near Eagle Creek, distinct from Eagle Creek Falls.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3160" lon="-87.4550">
+    <name>Disaster Falls</name>
+    <desc>Steep cascade area known for technical creek walking near White Creek.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <!-- End Unofficial Falls -->
+
+  <wpt lat="34.31315" lon="-87.46716">
+    <name>Valentine Pool</name>
+    <desc>Heart-shaped pool at the top of Upper White Creek Falls.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.31286" lon="-87.46708">
+    <name>White Creek Falls</name>
+    <desc>Stunning lower falls in a deep canyon.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2920" lon="-87.4020">
+    <name>Fall Creek Falls</name>
+    <desc>Scenic waterfall flowing into the Sipsey River near Trail 209.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2458" lon="-87.43298">
+    <name>Caney Creek Falls</name>
+    <desc>Classic amphitheater-style waterfall.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3032" lon="-87.4390">
+    <name>Little Ugly Creek Falls</name>
+    <desc>Waterfall located just upstream from Deer Skull Falls.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.29767" lon="-87.44383">
+    <name>Deer Skull Falls</name>
+    <desc>Twin falls located off-trail in a canyon.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3286" lon="-87.4449">
+    <name>East Bee Branch Falls</name>
+    <desc>Sheer drop waterfall in the canyon behind The Big Tree.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2894" lon="-87.4456">
+    <name>Eagle Creek Falls</name>
+    <desc>Waterfall in a rugged side canyon.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2833" lon="-87.40672">
+    <name>Mize Mill Falls</name>
+    <desc>Waterfall near the road, easily accessible.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.28488" lon="-87.42872">
+    <name>Turkeyfoot Falls</name>
+    <desc>Located near the Sipsey Recreation Area.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.30857" lon="-87.50262">
+    <name>Kinlock Falls</name>
+    <desc>Large slide waterfall on Hubbard Creek.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.30517" lon="-87.48483">
+    <name>Parker Falls</name>
+    <desc>Secluded cascade in the western wilderness.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.254" lon="-87.2645">
+    <name>Sougahoagdee Falls</name>
+    <desc>Wide sandstone waterfall in the eastern section.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.29300" lon="-87.42900">
+    <name>Wolfpen Falls</name>
+    <desc>Waterfall near the Wolfpen Cemetery area.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2792" lon="-87.30642">
+    <name>Shangri-La Falls</name>
+    <desc>Hidden waterfall in a massive rock shelter.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.27519" lon="-87.25732">
+    <name>Holmes Chapel Falls</name>
+    <desc>Waterfall near the Brushy Creek area.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF249CF2</color></gpx></extensions>
+  </wpt>
+
+  <!-- ========================================== -->
+  <!--      ATTRACTIONS & LANDMARKS (Green)     -->
+  <!-- ========================================== -->
+
+  <!-- Waypoints from SipseyCustomWaypoints_Sym.gpx (Attractions/Scenic Area) -->
+  <wpt lat="34.335376" lon="-87.448634">
+    <name>Bee Branch Scenic Area</name>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <xsi:gpx><color>#FF3C8C3C</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.325134" lon="-87.460773">
+    <name>Big Boulders</name>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <xsi:gpx><color>#FFFF9600</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  
+  <!-- Detailed Map Attractions (Verified Only) -->
+  <wpt lat="34.30983" lon="-87.39417">
+    <name>Borden Bridge</name>
+    <desc>Bridge crossing Borden Creek, key landmark on detailed map.</desc>
+    <sym>Bridge</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.37317" lon="-87.46300">
+    <name>Baptizing Hole</name>
+    <desc>Historic swimming/baptizing spot on detailed map.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.37367" lon="-87.43367">
+    <name>Gum Pond</name>
+    <desc>Pond landmark near northern boundary.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.29917" lon="-87.46305">
+    <name>Johnson Cemetary</name>
+    <desc>Historic cemetery located near the wilderness boundary.</desc>
+    <sym>Historic Site</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.34367" lon="-87.46867">
+    <name>Blue Hole</name>
+    <desc>Deep swimming hole/pool on the creek.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3235" lon="-87.4705">
+    <name>Double Arch</name>
+    <desc>Rare double rock arch formation hidden near Needle's Eye.</desc>
+    <sym>Attraction</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3210" lon="-87.4650">
+    <name>The Maze</name>
+    <desc>Complex area of giant boulders and rock shelters.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2950" lon="-87.4400">
+    <name>Natural Well</name>
+    <desc>Prominent sinkhole feature.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3315" lon="-87.4505">
+    <name>Big Tree Shortcut Viewpoint</name>
+    <desc>Viewpoint overlooking East Bee Branch Canyon on the shortcut trail.</desc>
+    <sym>Viewpoint</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3250" lon="-87.4550">
+    <name>The Garden</name>
+    <desc>Large rock house/shelter known for lush ferns and plant life.</desc>
+    <sym>Scenic Area</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3200" lon="-87.4450">
+    <name>Saltpeter Cave</name>
+    <desc>Historical cave used for mining saltpeter, near Trail 209.</desc>
+    <sym>Cave</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <!-- End Detailed Attractions -->
+
+  <wpt lat="34.32865" lon="-87.44495">
+    <name>The Big Tree</name>
+    <desc>Alabama's largest Tulip Poplar, a massive ancient tree.</desc>
+    <sym>Tree</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2925" lon="-87.3995">
+    <name>Fat Man's Squeeze</name>
+    <desc>Famous rock tunnel/squeeze on Trail 200.</desc>
+    <sym>Tunnel</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3198" lon="-87.4635">
+    <name>Ship Rock</name>
+    <desc>Giant ship-shaped rock formation near Thompson Creek.</desc>
+    <sym>Summit</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.322044" lon="-87.468632">
+    <name>Needles Eye</name>
+    <desc>Rock arch with a small hole, located near Ship Rock.</desc>
+    <sym>Attraction</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3015" lon="-87.4780">
+    <name>Rippey Cabin Ruins</name>
+    <desc>Remains of an old homestead on Trail 201.</desc>
+    <sym>Historic Site</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2830" lon="-87.4050">
+    <name>100 Yard Dash</name>
+    <desc>Notable rapid on the Sipsey River Fork.</desc>
+    <sym>Water Source</sym>
+    <extensions><gpx><color>#FF3C8C3C</color></gpx></extensions>
+  </wpt>
+
+  <!-- ========================================== -->
+  <!--           CAMPSITES (Brown)              -->
+  <!-- ========================================== -->
+
+  <!-- Waypoints from SipseyCustomWaypoints_Sym.gpx (Campground/Shelter) -->
+  <wpt lat="34.325853" lon="-87.460817">
+    <name>Rock Shelter</name>
+    <desc>Good place to shelter from rain. Campable for 1p</desc>
+    <sym>Shelter</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.325589" lon="-87.460365">
+    <name>Rock Shelter</name>
+    <desc>Good place to shelter from rain.</desc>
+    <sym>Shelter</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.316673" lon="-87.447978">
+    <name>Beautiful campsite in the boulders</name>
+    <sym>Campground</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.328281" lon="-87.444849">
+    <name>Rock shelter &amp; campsite (small)</name>
+    <sym>Campground</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.327464" lon="-87.445022">
+    <name>Rock shelter &amp; campsite (large)</name>
+    <sym>Campground</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.324588" lon="-87.450912">
+    <name>Campsite</name>
+    <sym>Campground</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+  <wpt lat="34.327246" lon="-87.451812">
+    <name>Campsite</name>
+    <sym>Campground</sym>
+    <extensions>
+      <xsi:gpx><color>#FF737373</color></xsi:gpx>
+    </extensions>
+  </wpt>
+
+  <!-- ADDED: Detailed Map Camps -->
+  <wpt lat="34.3262" lon="-87.4485">
+    <name>Bee Branch Campsite</name>
+    <desc>Major campsite at the junction of Trail 209 and 204.</desc>
+    <sym>Campground</sym>
+    <extensions><gpx><color>#FF804633</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.3350" lon="-87.4640">
+    <name>Wolfpen Hunt Camp</name>
+    <desc>Large established camp area on the northern boundary.</desc>
+    <sym>Campground</sym>
+    <extensions><gpx><color>#FF804633</color></gpx></extensions>
+  </wpt>
+  <wpt lat="34.2811" lon="-87.4690">
+    <name>Three Rivers Camp</name>
+    <desc>Scenic camp where three streams converge.</desc>
+    <sym>Campground</sym>
+    <extensions><gpx><color>#FF804633</color></gpx></extensions>
+  </wpt>
+  <!-- End Detailed Camps -->
+
+  <wpt lat="34.295477" lon="-87.396363">
+    <name>Claymore Camp #1</name>
+    <desc>Popular riverside campsite on Trail 209.</desc>
+    <sym>Campground</sym>
+    <extensions><gpx><color>#FF804633</color></gpx></extensions>
+  </wpt>
+  <!-- Unnamed Campsites from the original list -->
+  <wpt lat="34.28668" lon="-87.399123"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.287859" lon="-87.399434"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.297287" lon="-87.406818"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.298748" lon="-87.413816"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.300263" lon="-87.419811"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.30033" lon="-87.427101"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.298641" lon="-87.427511"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.307227" lon="-87.437291"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.313621" lon="-87.435797"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.314297" lon="-87.445514"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.318304" lon="-87.450525"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.315739" lon="-87.452255"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.314328" lon="-87.451914"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.315987" lon="-87.456962"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.313734" lon="-87.463013"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.314926" lon="-87.465387"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.316065" lon="-87.46543"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.319416" lon="-87.465585"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.321073" lon="-87.466956"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.321561" lon="-87.468654"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.323098" lon="-87.469236"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.325269" lon="-87.461873"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.33664" lon="-87.466138"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.337692" lon="-87.46577"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.295887" lon="-87.393673"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.297389" lon="-87.394367"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.298278" lon="-87.395336"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.300294" lon="-87.400984"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.307963" lon="-87.396929"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.310276" lon="-87.3943"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.31155" lon="-87.394019"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+  <wpt lat="34.312039" lon="-87.393804"><name>Campsite</name><sym>Campground</sym><extensions><gpx><color>#FF804633</color></gpx></extensions></wpt>
+</gpx>
