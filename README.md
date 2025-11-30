@@ -7,11 +7,11 @@ You can use the GPX map with any hiking app that allows GPX imports. I prefer to
 ![diagram](images/sipsey_gpxstudio.png)
 
 Below is how it looks in the Comaps. In the GPX file, I included specific color coding information (unique to Comaps) for different waypoints: 
-brown: campsites
-orange: rock shelters (in case one needs shelter from rain, when caught without a tent)
-blue: falls & water sources 
-green: attractions (boulders etc.),
-gray: parking/trailheads
+- brown: campsites  
+- orange: rock shelters (in case one needs shelter from rain, when caught without a tent)  
+- blue: falls & water sources  
+- green: attractions (boulders etc.),  
+- gray: parking/trailheads
 
 For other apps, information for the waypoints were included as symbols (so that you can see a camp symbol for campsites etc.)
 
