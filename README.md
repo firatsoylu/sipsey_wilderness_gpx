@@ -1,5 +1,4 @@
-# sipsey_wilderness_gpx
-Sipsey Wilderness (Alabama) Complete GPX Map for Hikers 
+# Sipsey Wilderness (Alabama) Complete GPX Map for Hikers 
 
 This is a comprehensive map of all waypoints (trailheads, waterfalls, campsites, boulders, attractions etc.) and tracks (from 200 to 224) by patching together public info I found online, info I gathered from my own trips, and using the OSM & GPXstudio.
 
