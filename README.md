@@ -1,32 +1,43 @@
-# Sipsey Wilderness (Alabama) Complete GPX Map for Hikers 
+# Sipsey Wilderness (Alabama) Complete GPX Map for Hikers
 
-Sipsey Wilderness is a wilderness area within the Bankhead National Forest, with beautiful trails, campsites, boulders, creeks, rivers, and waterfalls. This is a comprehensive map of all waypoints (trailheads, waterfalls, campsites, boulders, attractions etc.) and tracks (from 200 to 224) formed by patching together public info I found online, info I gathered from my own trips, and using the OSM & GPXstudio.
+This repository provides a detailed GPX map of the Sipsey Wilderness in the Bankhead National Forest, covering trails, campsites, boulders, creeks, rivers, waterfalls, and other features. The map combines public sources, personal trip data, and edits made with OSM and GPXstudio.
 
-There are three files:
+## Files
 
-`a_Sipsey_TrailTracks_Waypoints_combined.gpx` : This file includes all trail tracks and waypoints.
-	
-`b_Sipsey_TrailTracks.gpx` : This file includes only the trail tracks
-	
-`c_Sipsey_Waypoints.gpx`: This file includes only the waypoints.
+- **a_Sipsey_TrailTracks_Waypoints_combined.gpx**  
+  All trail tracks and all waypoints.
 
-In most situations, you would want to use (a). [You can explore the map here on GPXStudio](https://gpx.studio/#?state=%7B%22urls%22%3A%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Ffiratsoylu%2Fsipsey_wilderness_gpx%2Fmain%2Fa_Sipsey_TrailTracks_Waypoints_combined.gpx%22%5D%7D) (click on the "App" button).
+- **b_Sipsey_TrailTracks.gpx**  
+  Trail tracks only.
 
+- **c_Sipsey_Waypoints.gpx**  
+  Waypoints only.
 
+Most users will want the combined file.  
+You can preview it here in GPXstudio:  
+[Open in GPXstudio](https://gpx.studio/#?state=%7B%22urls%22%3A%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Ffiratsoylu%2Fsipsey_wilderness_gpx%2Fmain%2Fa_Sipsey_TrailTracks_Waypoints_combined.gpx%22%5D%7D)
 
+---
 
-You can use the GPX map with any hiking app that allows GPX imports. I prefer to use the free & open source Comaps app. Below is how the map looks in GPXstudio:
+## Example Views
 
-![diagram](images/sipsey_gpxstudio.png)
+### GPXstudio View
+![GPXstudio view](images/sipsey_gpxstudio.png)
 
-Below is how it looks in the Comaps. In the GPX file, I included specific color coding information (unique to Comaps) for different waypoints: 
-- brown: campsites  
-- blue: falls & water sources  
-- green: attractions (boulders etc.),  
-- gray: parking/trailheads
+### Comaps View
+The GPX includes color metadata compatible with the free and open-source Comaps app:
 
-For other apps, information for the waypoints were included as symbols (so that you can see a camp symbol for campsites etc.)
+- **Brown:** Campsites  
+- **Blue:** Waterfalls & water sources  
+- **Green:** Attractions (boulders, formations, etc.)  
+- **Gray:** Parking & trailheads  
 
-![diagram](images/sipsey_comaps.jpg)
+Other apps will display waypoint symbols appropriate to category (e.g., tent icons for camps).
 
-Please use the map with caution. I tried my best to get the most accurate information, but there might be inaccurate information on the map. Use it at your own risk. I will be updating it after each trip, and will post the most up-to-date version. 
+![Comaps view](images/sipsey_comaps.jpg)
+
+---
+
+## Notes
+
+Use the map cautiously. Some details may be inaccurate. It will be updated periodically as new data becomes available.
