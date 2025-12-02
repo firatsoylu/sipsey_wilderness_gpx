@@ -1,6 +1,6 @@
 # Sipsey Wilderness (Alabama) Complete GPX Map for Hikers
 
-This repository provides a detailed GPX map of the Sipsey Wilderness in the Bankhead National Forest, covering trails, campsites, boulders, creeks, rivers, waterfalls, and other features. The map combines public sources, personal trip data, and edits made with OSM and GPXstudio.
+This repository provides a detailed GPX map of the Sipsey Wilderness in the Bankhead National Forest, Alabama, covering trails, campsites, boulders, creeks, rivers, waterfalls, and other features. The map combines public sources, personal trip data, and edits made with OSM and GPXstudio.
 
 ## Files
 
