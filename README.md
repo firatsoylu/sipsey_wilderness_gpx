@@ -40,4 +40,4 @@ Other apps will display waypoint symbols appropriate to category (e.g., tent ico
 
 ## Notes
 
-Use the map cautiously. Some details may be inaccurate. It will be updated periodically as new data becomes available.
+Please use the map with caution. I tried my best to get the most accurate information, but there might be inaccurate information on the map. Use it at your own risk. I will be updating it after each trip, and will post the most up-to-date version.
